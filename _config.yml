@@ -1,4 +1,4 @@
 title: SimpleShortener
 tagline: Powerful, Fast, Open-Source link shortening for your buisness or organization
 description: An easy way to shorten up links with custom domains across the web
-theme: jekyll-theme-hacker
+theme: randomairborne/hacker-fork
